@@ -5,7 +5,6 @@ import { faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons'
 import { faQuoteLeft } from '@fortawesome/free-solid-svg-icons'
 import { useState } from 'react'
 
-// ! NOT RESPONSIVE YET
 const App = () => {
   const findQuote = (id) => {
     return quotes.find((qu) => qu.id === id)
