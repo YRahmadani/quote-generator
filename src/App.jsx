@@ -66,7 +66,7 @@ const App = () => {
         </span>
       </div>
       <div className={`bottom-5 ${author ? 'static mt-4' : 'absolute'}`}>
-        <p className='font-poppins text-center text-sm xl:text-xl text-white tracking-wide'>create by <span className='font-bold'>YRahmadani </span>- devChallenges.io</p>
+        <p className='font-poppins text-center text-sm xl:text-xl text-white tracking-wide'>create by <span className='font-bold'>Geevanya </span>- devChallenges.io</p>
       </div>
     </div>
   )
